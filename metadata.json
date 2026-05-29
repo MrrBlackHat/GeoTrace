@@ -1,0 +1,6 @@
+{
+  "name": "AI Image Geolocation Platform",
+  "description": "A highly immersive and cinematic geographic estimation platform matching geotagged imagery using nearest-neighbor embeddings and AI-guided visual cues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
